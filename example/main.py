@@ -5,8 +5,7 @@ import xml
 
 def main():
 	args = get_args()
-	with open(args.edi_file, 'r') as f:
-		edi = f.read()
+	edi = sys.stdin.read()
 	segment_separator = edi[105]
 	element_separator = edi[3]
 	parser = tedi.Parser(segment_separator, element_separator)
@@ -21,7 +20,6 @@ def main():
 
 def get_args():
 	parser = argparse.ArgumentParser('')
-	parser.add_argument('-f', '--edi_file', type=str)
 	parser.add_argument('-p', '--pretty_print', action=argparse.BooleanOptionalAction)
 	return parser.parse_args()
 
