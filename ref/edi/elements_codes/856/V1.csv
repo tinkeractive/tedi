@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+V101,Vessel Code,C,1,8,lD
+V102,Vessel Name,C,2,28,AN
+V103,Country Code,O,2,3,lD
+V104,Flight/Voyage Number,O,2,10,AN
+V105,Standard Carrier Alpha Code,O,2,4,lD
+V106,Vessel Requirement Code,O,1,1,ID
+V107,Vessel Type Code,O,2,2,ID
+V108,Vessel Code Qualifier,O,1,1,ID
+V109,Transportation Method/Type Code,O,1,2,ID

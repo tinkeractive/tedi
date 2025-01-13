@@ -1,0 +1,4 @@
+Element,Description,Req,Min Length,Max Length,Type
+FA101,Agency Qualifier Code,M,2,2,ID
+FA102,"Service, Promotion, Allowance, Or Charge Code",O,4,4,ID
+FA103,Allowance Or Charge Indicator,O,1,1,ID

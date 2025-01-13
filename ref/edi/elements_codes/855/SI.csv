@@ -1,0 +1,22 @@
+Element,Description,Req,Min Length,Max Length,Type
+SI01,Agency Qualifier Code,M,2,2,ID
+SI02,Service Characteristics Qualifier,M,2,3,AN
+SI03,Product/Service Id,M,1,48,AN
+SI04,Service Characteristics Qualifier,C,2,3,AN
+SI05,Product/Service Id,C,1,48,AN
+SI06,Service Characteristics Qualifier,C,2,3,AN
+SI07,Product/Service Id,C,1,48,AN
+SI08,Service Characteristics Qualifier,C,2,3,AN
+SI09,Product/Service Id,C,1,48,AN
+SI10,Service Characteristics Qualifier,C,2,3,AN
+SI11,Product/Service Id,C,1,48,AN
+SI12,Service Characteristics Qualifier,C,2,3,AN
+SI13,Product/Service Id,C,1,48,AN
+SI14,Service Characteristics Qualifier,C,2,3,AN
+SI15,Product/Service Id,C,1,48,AN
+SI16,Service Characteristics Qualifier,C,2,3,AN
+SI17,Product/Service Id,C,1,48,AN
+SI18,Service Characteristics Qualifier,C,2,3,AN
+SI19,Product/Service Id,C,1,48,AN
+SI20,Service Characteristics Qualifier,C,2,3,AN
+SI21,Product/Service Id,C,1,48,AN

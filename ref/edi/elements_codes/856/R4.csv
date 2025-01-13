@@ -1,0 +1,9 @@
+Element,Description,Req,Min Length,Max Length,Type
+R401,Port Or Terminal Function Code,M,1,1,ID
+R402,Location Qualifier,C,1,2,ID
+R403,Location Identifier,C,1,30,AN
+R404,Port Name,O,2,24,AN
+R405,Country Code,O,2,3,lD
+R406,Terminal Name,O,2,30,AN
+R407,Pier Number,O,1,4,AN
+R408,State Or Province Code,O,2,2,lD

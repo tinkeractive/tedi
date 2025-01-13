@@ -1,0 +1,1 @@
+{"LE01":{"description": "Loop Identifier Code", "required": "M", "min_length": "1", "max_length": "4", "type": "AN"}}

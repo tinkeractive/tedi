@@ -1,0 +1,12 @@
+Element,Description,Req,Min Length,Max Length,Type
+SR01,Assigned Identification,O,1,20,AN
+SR02,Day Rotation,O,1,7,AN
+SR03,Time,C,4,8,TM
+SR04,Time,O,4,8,TM
+SR05,Free-Form Message,O,1,60,AN
+SR06,Unit Price,O,1,17,R
+SR07,Quantity,O,1,15,R
+SR08,Date,C,8,8,DT
+SR09,Date,O,8,8,DT
+SR10,Product/Service Id,O,1,48,AN
+SR11,Product/Service Id,O,1,48,AN

@@ -1,0 +1,1 @@
+{"FA201":{"description": "Breakdown Structure Detail Code", "required": "M", "min_length": "2", "max_length": "2", "type": "ID"},"FA202":{"description": "Financial Information Code", "required": "M", "min_length": "1", "max_length": "80", "type": "AN"}}

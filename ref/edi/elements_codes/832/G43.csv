@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+G4301,Market Area Code Qualifier,M,1,3,ID
+G4302,Market Area Code Identifier,O,1,13,AN
+G4303,Description,O,1,80,AN
+G4304,Class Of Trade Code,O,2,2,ID

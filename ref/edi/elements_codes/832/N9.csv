@@ -1,0 +1,13 @@
+Element,Description,Req,Min Length,Max Length,Type
+N901,Reference Identification Qualifier,M,2,3,ID
+N902,Reference Identification,C,1,50,AN
+N903,Free-Form Description,C,1,45,AN
+N904,Date,O,8,8,DT
+N905,Time,C,4,8,TM
+N906,Time Code,O,2,2,ID
+N907,Reference Identification Qualifier,O,2,3,ID
+N908,Reference Identification,O,1,50,AN
+N909,Reference Identification Qualifier,O,2,3,ID
+N910,Reference Identification,O,1,50,AN
+N911,Reference Identification Qualifier,O,2,3,ID
+N912,Reference Identification,O,1,50,AN

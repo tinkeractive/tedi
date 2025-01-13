@@ -1,0 +1,1 @@
+{"IN201":{"description": "Name Component Qualifier", "required": "M", "min_length": "2", "max_length": "2", "type": "ID"},"IN202":{"description": "Name", "required": "M", "min_length": "1", "max_length": "60", "type": "AN"},"IN203":{"description": "Name", "required": "O", "min_length": "1", "max_length": "60", "type": "AN"}}

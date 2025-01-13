@@ -1,0 +1,22 @@
+Element,Description,Req,Min Length,Max Length,Type
+QTY01,Quantity Qualifier,M,1,3,ID
+QTY01,Quantity Qualifier,M,2,2,ID
+QTY02,Quantity,C,1,15,R
+QTY02,Quantity,M,1,15,R
+QTY03,Measure Unit Qualifier,M,1,3,lD
+QTY03,Unit Or Basis For Measurement Code,O,2,2,ID
+QTY04,Exponent,O,1,15,R
+QTY05,Multiplier,O,1,10,R
+QTY06,Unit Or Basis For Measurement Code,O,2,2,ID
+QTY07,Exponent,O,1,15,R
+QTY08,Multiplier,O,1,10,R
+QTY09,Unit Or Basis For Measurement Code,O,2,2,ID
+QTY10,Exponent,O,1,15,R
+QTY11,Multiplier,O,1,10,R
+QTY12,Unit Or Basis For Measurement Code,O,2,2,ID
+QTY13,Exponent,O,1,15,R
+QTY14,Multiplier,O,1,10,R
+QTY15,Unit Or Basis For Measurement Code,O,2,2,ID
+QTY16,Exponent,O,1,15,R
+QTY17,Multiplier,O,1,10,R
+QTY18,Free-Form Information,C,1,30,AN

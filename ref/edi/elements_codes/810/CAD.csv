@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+CAD01,Transportation Method/Type Code,M,1,2,ID
+CAD02,Equipment Initial,O,1,4,AN
+CAD03,Equipment Number,O,1,15,AN
+CAD04,Standard Carrier Alpha Code,C,2,4,lD
+CAD05,Routing,C,1,35,AN
+CAD06,Shipment/Order Status Code,O,2,2,ID
+CAD07,Reference Identification Qualifier,O,2,3,ID
+CAD08,Reference Identification,C,1,50,AN
+CAD09,Service Level Code,O,2,2,ID

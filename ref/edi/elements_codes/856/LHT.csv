@@ -1,0 +1,4 @@
+Element,Description,Req,Min Length,Max Length,Type
+LHT01,Hazardous Classification,O,1,30,lD
+LHT02,Hazardous Placard Notation,O,14,40,lD
+LHT03,Hazardous Endorsement,O,4,25,lD

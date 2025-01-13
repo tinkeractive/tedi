@@ -1,0 +1,2 @@
+Element,Description,Req,Min Length,Max Length,Type
+LE01,Loop Identifier Code,M,1,4,AN

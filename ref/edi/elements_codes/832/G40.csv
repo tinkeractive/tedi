@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+G4001,Price Bracket Identifier,O,1,3,AN
+G4002,Item List Cost - New,M,1,9,R9
+G4003,Item List Cost - Old,O,1,9,R9
+G4004,Free-Form Description,O,1,45,AN
+G4005,"Price New, Suggested Retail",O,2,7,N2
+G4006,"Price Old, Suggested Retail",O,2,7,N2
+G4007,Unit Or Basis For Measurement Code,O,2,2,ID
+G4008,Price Identifier Code,O,3,3,ID
+G4009,Number,O,1,9,N0

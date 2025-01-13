@@ -1,0 +1,12 @@
+Element,Description,Req,Min Length,Max Length,Type
+BIG01,Date,M,8,8,DT
+BIG02,Invoice Number,M,1,22,AN
+BIG03,Date,O,8,8,DT
+BIG04,Purchase Order Number,O,1,22,AN
+BIG05,Release Number,O,1,30,AN
+BIG06,Change Order Sequence Number,O,1,8,AN
+BIG07,Transaction Type Code,O,2,2,ID
+BIG08,Transaction Set Purpose Code,O,2,2,ID
+BIG09,Action Code,O,1,2,ID
+BIG10,Invoice Number,O,1,22,AN
+BIG11,Hierarchical Structure Code,O,4,4,ID

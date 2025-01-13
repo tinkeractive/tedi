@@ -1,0 +1,11 @@
+Element,Description,Req,Min Length,Max Length,Type
+BAK01,Transaction Set Purpose Code,M,2,2,ID
+BAK02,Acknowledgment Type,M,2,2,ID
+BAK03,Purchase Order Number,M,1,22,AN
+BAK04,Date,M,8,8,DT
+BAK05,Release Number,O,1,30,AN
+BAK06,Request Reference Number,O,1,45,AN
+BAK07,Contract Number,O,1,30,AN
+BAK08,Reference Identification,O,1,50,AN
+BAK09,Date,O,8,8,DT
+BAK10,Transaction Type Code,O,2,2,ID

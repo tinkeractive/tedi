@@ -1,0 +1,17 @@
+Element,Description,Req,Min Length,Max Length,Type
+L701,Lading Line Item Number,O,1,3,N0
+L702,Tariff Agency Code,O,1,4,lD
+L703,Tariff Number,O,1,7,AN
+L704,Tariff Section Number,O,1,2,AN
+L705,Tariff Item Number,O,1,16,AN
+L706,Tariff Item Part,O,1,2,N0
+L707,Freight Class Code,O,2,5,AN
+L708,Tariff Supplement Identifier,O,1,4,AN
+L709,Ex Parte,O,4,4,AN
+L710,Date,O,8,8,DT
+L711,Rate Basis Number,O,1,6,AN
+L712,Tariff Column,O,1,2,AN
+L713,Tariff Distance,O,1,5,N0
+L714,Distance Qualifier,O,1,1,ID
+L715,City Name,O,2,30,AN
+L716,State Or Province Code,O,2,2,lD

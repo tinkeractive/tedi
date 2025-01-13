@@ -1,0 +1,8 @@
+Element,Description,Req,Min Length,Max Length,Type
+PRF01,Purchase Order Number,M,1,22,AN
+PRF02,Release Number,O,1,30,AN
+PRF03,Change Order Sequence Number,O,1,8,AN
+PRF04,Date,O,8,8,DT
+PRF05,Assigned Identification,O,1,20,AN
+PRF06,Contract Number,O,1,30,AN
+PRF07,Purchase Order Type Code,O,2,2,ID

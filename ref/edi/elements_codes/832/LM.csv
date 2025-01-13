@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+LM01,Agency Qualifier Code,M,2,2,ID
+LM02,Source Subqualifier,O,1,15,AN

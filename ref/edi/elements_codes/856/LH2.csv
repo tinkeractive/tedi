@@ -1,0 +1,14 @@
+Element,Description,Req,Min Length,Max Length,Type
+LH201,Hazardous Classification,O,1,30,lD
+LH202,Hazardous Class Qualifier,O,1,1,ID
+LH203,Hazardous Placard Notation,O,14,40,lD
+LH204,Hazardous Endorsement,O,4,25,lD
+LH205,Reportable Quantity Code,O,2,2,ID
+LH206,Unit Or Basis For Measurement Code,C,2,2,ID
+LH207,Temperature,C,1,4,R4
+LH208,Unit Or Basis For Measurement Code,C,2,2,ID
+LH209,Temperature,C,1,4,R4
+LH210,Unit Or Basis For Measurement Code,C,2,2,ID
+LH211,Temperature,C,1,4,R4
+LH212,Weight Unit Code,C,1,1,ID
+LH213,Net Explosive Quantity,C,1,10,N0

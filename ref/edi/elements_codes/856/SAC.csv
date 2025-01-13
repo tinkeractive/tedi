@@ -1,0 +1,17 @@
+Element,Description,Req,Min Length,Max Length,Type
+SAC01,Allowance Or Charge Indicator,M,1,1,ID
+SAC02,"Service, Promotion, Allowance, Or Charge Code",C,4,4,ID
+SAC03,Agency Qualifier Code,C,2,2,ID
+SAC04,"Agency Service, Promotion, Allowance, Or Charge Code",C,1,10,AN
+SAC05,Amount,O,1,15,N2
+SAC06,Allowance/Charge Percent Qualifier,C,1,1,ID
+SAC07,"Percent, Decimal Format",C,1,6,R6
+SAC08,Rate,O,1,9,R9
+SAC09,Unit Or Basis For Measurement Code,C,2,2,ID
+SAC10,Quantity,C,1,15,R
+SAC11,Quantity,O,1,15,R
+SAC12,Allowance Or Charge Method Of Handling Code,O,2,2,ID
+SAC13,Reference Identification,C,1,50,AN
+SAC14,Option Number,O,1,20,AN
+SAC15,Description,C,1,80,AN
+SAC16,Language Code,O,2,3,lD

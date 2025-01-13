@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+DIS01,Discount Terms Type Code,M,3,3,ID
+DIS02,Discount Base Qualifier,M,2,2,ID
+DIS03,Discount Base Value,M,1,10,R
+DIS04,Discount Control Limit Qualifier,M,2,3,ID
+DIS05,Discount Control Limit,M,1,10,N0
+DIS06,Discount Control Limit,O,1,10,N0

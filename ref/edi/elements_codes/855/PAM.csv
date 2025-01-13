@@ -1,0 +1,30 @@
+Element,Description,Req,Min Length,Max Length,Type
+PAM01,Quantity Qualifier,C,2,2,ID
+PAM02,Quantity,C,1,15,R
+PAM03,Unit Or Basis For Measurement Code,C,2,2,ID
+PAM04,Exponent,C,1,15,R
+PAM05,Multiplier,C,1,10,R
+PAM06,Unit Or Basis For Measurement Code,C,2,2,ID
+PAM07,Exponent,C,1,15,R
+PAM08,Multiplier,C,1,10,R
+PAM09,Unit Or Basis For Measurement Code,C,2,2,ID
+PAM10,Exponent,C,1,15,R
+PAM11,Multiplier,C,1,10,R
+PAM12,Unit Or Basis For Measurement Code,C,2,2,ID
+PAM13,Exponent,C,1,15,R
+PAM14,Multiplier,C,1,10,R
+PAM15,Unit Or Basis For Measurement Code,C,2,2,ID
+PAM16,Exponent,C,1,15,R
+PAM17,Multiplier,C,1,10,R
+PAM18,Amount Qualifier Code,C,1,3,ID
+PAM19,Monetary Amount,C,1,18,R
+PAM20,Unit Of Time Period Or Interval,C,2,2,ID
+PAM21,Date/Time Qualifier,C,3,3,ID
+PAM22,Date,C,8,8,DT
+PAM23,Time,C,4,8,TM
+PAM24,Date/Time Qualifier,C,3,3,ID
+PAM25,Date,C,8,8,DT
+PAM26,Time,C,4,8,TM
+PAM27,Percent Qualifier,C,1,2,ID
+PAM28,Percentage As Decimal,C,1,10,R
+PAM29,Yes/No Condition Or Response Code,O,1,1,ID

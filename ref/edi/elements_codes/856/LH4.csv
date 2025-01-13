@@ -1,0 +1,13 @@
+Element,Description,Req,Min Length,Max Length,Type
+LH401,Emergency Response Plan Number,C,1,12,AN
+LH402,Communication Number,C,1,256,AN
+LH403,Packing Group Code,O,1,3,lD
+LH404,Subsidiary Classification,O,1,3,lD
+LH405,Subsidiary Classification,O,1,3,lD
+LH406,Subsidiary Classification,O,1,3,lD
+LH407,Subsidiary Risk Indicator,O,1,2,ID
+LH408,Net Explosive Quantity,C,1,10,N0
+LH409,Canadian Hazardous Notation,O,1,25,AN
+LH410,Special Commodity Indicator Code,O,1,1,ID
+LH411,Communication Number,O,1,256,AN
+LH412,Unit Or Basis For Measurement Code,C,2,2,ID

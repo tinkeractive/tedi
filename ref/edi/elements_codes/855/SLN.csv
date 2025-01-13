@@ -1,0 +1,43 @@
+Element,Description,Req,Min Length,Max Length,Type
+SLN01,Assigned Identification,M,1,20,AN
+SLN02,Assigned Identification,O,1,20,AN
+SLN03,Relationship Code,M,1,1,ID
+SLN04,Quantity,C,1,15,R
+SLN05,Unit Or Basis For Measurement Code,C,2,2,ID
+SLN06,Exponent,C,1,15,R
+SLN07,Multiplier,C,1,10,R
+SLN08,Unit Or Basis For Measurement Code,C,2,2,ID
+SLN09,Exponent,C,1,15,R
+SLN10,Multiplier,C,1,10,R
+SLN11,Unit Or Basis For Measurement Code,C,2,2,ID
+SLN12,Exponent,C,1,15,R
+SLN13,Multiplier,C,1,10,R
+SLN14,Unit Or Basis For Measurement Code,C,2,2,ID
+SLN15,Exponent,C,1,15,R
+SLN16,Multiplier,C,1,10,R
+SLN17,Unit Or Basis For Measurement Code,C,2,2,ID
+SLN18,Exponent,C,1,15,R
+SLN19,Multiplier,C,1,10,R
+SLN20,Unit Price,C,1,17,R
+SLN21,Basis Of Unit Price Code,O,2,2,ID
+SLN22,Relationship Code,O,1,1,ID
+SLN23,Product/Service Id Qualifier,C,2,2,ID
+SLN24,Product/Service Id,C,1,48,AN
+SLN25,Product/Service Id Qualifier,C,2,2,ID
+SLN26,Product/Service Id,C,1,48,AN
+SLN27,Product/Service Id Qualifier,C,2,2,ID
+SLN28,Product/Service Id,C,1,48,AN
+SLN29,Product/Service Id Qualifier,C,2,2,ID
+SLN30,Product/Service Id,C,1,48,AN
+SLN31,Product/Service Id Qualifier,C,2,2,ID
+SLN32,Product/Service Id,C,1,48,AN
+SLN33,Product/Service Id Qualifier,C,2,2,ID
+SLN34,Product/Service Id,C,1,48,AN
+SLN35,Product/Service Id Qualifier,C,2,2,ID
+SLN36,Product/Service Id,C,1,48,AN
+SLN37,Product/Service Id Qualifier,C,2,2,ID
+SLN38,Product/Service Id,C,1,48,AN
+SLN39,Product/Service Id Qualifier,C,2,2,ID
+SLN40,Product/Service Id,C,1,48,AN
+SLN41,Product/Service Id Qualifier,C,2,2,ID
+SLN42,Product/Service Id,C,1,48,AN

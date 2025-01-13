@@ -1,0 +1,1 @@
+{"N301":{"description": "Address Information", "required": "M", "min_length": "1", "max_length": "55", "type": "AN"},"N302":{"description": "Address Information", "required": "O", "min_length": "1", "max_length": "55", "type": "AN"}}

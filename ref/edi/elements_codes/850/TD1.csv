@@ -1,0 +1,11 @@
+Element,Description,Req,Min Length,Max Length,Type
+TD101,Packaging Code,O,3,5,AN
+TD102,Lading Quantity,C,1,7,N0
+TD103,Commodity Code Qualifier,O,1,1,ID
+TD104,Commodity Code,C,1,30,AN
+TD105,Lading Description,O,1,50,AN
+TD106,Weight Qualifier,O,1,2,ID
+TD107,Weight,C,1,10,R
+TD108,Unit Or Basis For Measurement Code,C,2,2,ID
+TD109,Volume,C,1,8,R8
+TD110,Unit Or Basis For Measurement Code,C,2,2,ID

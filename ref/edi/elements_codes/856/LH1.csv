@@ -1,0 +1,12 @@
+Element,Description,Req,Min Length,Max Length,Type
+LH101,Unit Or Basis For Measurement Code,M,2,2,ID
+LH102,Lading Quantity,M,1,7,N0
+LH103,Un/Na Identification Code,O,6,6,lD
+LH104,Hazardous Materials Page,O,1,6,AN
+LH105,Commodity Code,O,1,30,AN
+LH106,Unit Or Basis For Measurement Code,O,2,2,ID
+LH107,Quantity,O,1,15,R
+LH108,Compartment Id Code,O,1,1,ID
+LH109,Residue Indicator Code,O,1,1,ID
+LH110,Packing Group Code,O,1,3,lD
+LH111,Interim Hazardous Material Regulatory Number,O,1,5,AN

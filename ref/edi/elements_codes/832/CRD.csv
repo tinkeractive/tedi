@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+CRD01,Country Code,M,2,3,lD
+CRD02,Amount Qualifier Code,C,1,3,ID
+CRD03,Monetary Amount,C,1,18,R
+CRD04,"Percent, Integer Format",C,1,3,N0

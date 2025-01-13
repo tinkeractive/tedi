@@ -1,0 +1,8 @@
+Element,Description,Req,Min Length,Max Length,Type
+CTT01,Number Of Line Items,M,1,6,N0
+CTT02,Hash Total,O,1,10,R
+CTT03,Weight,C,1,10,R
+CTT04,Unit Or Basis For Measurement Code,C,2,2,ID
+CTT05,Volume,C,1,8,R8
+CTT06,Unit Or Basis For Measurement Code,C,2,2,ID
+CTT07,Description,O,1,80,AN

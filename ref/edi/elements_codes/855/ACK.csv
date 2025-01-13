@@ -1,0 +1,30 @@
+Element,Description,Req,Min Length,Max Length,Type
+ACK01,Line Item Status Code,M,2,2,ID
+ACK02,Quantity,C,1,15,R
+ACK03,Unit Or Basis For Measurement Code,C,2,2,ID
+ACK04,Date/Time Qualifier,O,3,3,ID
+ACK05,Date,C,8,8,DT
+ACK06,Request Reference Number,O,1,45,AN
+ACK07,Product/Service Id Qualifier,C,2,2,ID
+ACK08,Product/Service Id,C,1,48,AN
+ACK09,Product/Service Id Qualifier,C,2,2,ID
+ACK10,Product/Service Id,C,1,48,AN
+ACK11,Product/Service Id Qualifier,C,2,2,ID
+ACK12,Product/Service Id,C,1,48,AN
+ACK13,Product/Service Id Qualifier,C,2,2,ID
+ACK14,Product/Service Id,C,1,48,AN
+ACK15,Product/Service Id Qualifier,C,2,2,ID
+ACK16,Product/Service Id,C,1,48,AN
+ACK17,Product/Service Id Qualifier,C,2,2,ID
+ACK18,Product/Service Id,C,1,48,AN
+ACK19,Product/Service Id Qualifier,C,2,2,ID
+ACK20,Product/Service Id,C,1,48,AN
+ACK21,Product/Service Id Qualifier,C,2,2,ID
+ACK22,Product/Service Id,C,1,48,AN
+ACK23,Product/Service Id Qualifier,C,2,2,ID
+ACK24,Product/Service Id,C,1,48,AN
+ACK25,Product/Service Id Qualifier,C,2,2,ID
+ACK26,Product/Service Id,C,1,48,AN
+ACK27,Agency Qualifier Code,C,2,2,ID
+ACK28,Source Subqualifier,C,1,15,AN
+ACK29,Industry Code,C,1,30,AN

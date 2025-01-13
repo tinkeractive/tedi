@@ -1,0 +1,16 @@
+Element,Description,Req,Min Length,Max Length,Type
+SPI01,Security Level Code,M,2,2,ID
+SPI02,Reference Identification Qualifier,C,2,3,ID
+SPI03,Reference Identification,C,1,50,AN
+SPI04,Entity Title,O,1,132,AN
+SPI05,Entity Purpose,O,1,80,AN
+SPI06,Entity Status Code,O,1,1,ID
+SPI07,Transaction Set Purpose Code,O,2,2,ID
+SPI08,Report Type Code,O,2,2,ID
+SPI09,Security Level Code,O,2,2,ID
+SPI10,Agency Qualifier Code,O,2,2,ID
+SPI11,Source Subqualifier,O,1,15,AN
+SPI12,Assigned Number,O,1,6,N0
+SPI13,Certification Type Code,O,1,1,ID
+SPI14,Proposal Data Detail Identifier Code,O,1,3,ID
+SPI15,Hierarchical Structure Code,O,4,4,ID

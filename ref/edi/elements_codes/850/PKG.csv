@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+PKG01,Item Description Type,C,1,1,ID
+PKG02,Packaging Characteristic Code,O,1,5,ID
+PKG03,Agency Qualifier Code,C,2,2,ID
+PKG04,Packaging Description Code,C,1,7,AN
+PKG05,Description,C,1,80,AN
+PKG06,Unit Load Option Code,C,2,2,ID

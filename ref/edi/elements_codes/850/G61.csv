@@ -1,0 +1,6 @@
+Element,Description,Req,Min Length,Max Length,Type
+G6101,Contact Function Code,M,2,2,ID
+G6102,Name,M,1,60,AN
+G6103,Communication Number Qualifier,C,2,2,ID
+G6104,Communication Number,C,1,256,AN
+G6105,Contact Inquiry Reference,O,1,20,AN

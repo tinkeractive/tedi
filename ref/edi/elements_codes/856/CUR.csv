@@ -1,0 +1,22 @@
+Element,Description,Req,Min Length,Max Length,Type
+CUR01,Entity Identifier Code,M,2,3,ID
+CUR02,Currency Code,M,3,3,lD
+CUR03,Exchange Rate,O,4,10,R
+CUR04,Entity Identifier Code,O,2,3,ID
+CUR05,Currency Code,O,3,3,lD
+CUR06,Currency Market/Exchange Code,O,3,3,ID
+CUR07,Date/Time Qualifier,C,3,3,ID
+CUR08,Date,O,8,8,DT
+CUR09,Time,O,4,8,TM
+CUR10,Date/Time Qualifier,C,3,3,ID
+CUR11,Date,C,8,8,DT
+CUR12,Time,C,4,8,TM
+CUR13,Date/Time Qualifier,C,3,3,ID
+CUR14,Date,C,8,8,DT
+CUR15,Time,C,4,8,TM
+CUR16,Date/Time Qualifier,C,3,3,ID
+CUR17,Date,C,8,8,DT
+CUR18,Time,C,4,8,TM
+CUR19,Date/Time Qualifier,C,3,3,ID
+CUR20,Date,C,8,8,DT
+CUR21,Time,C,4,8,TM

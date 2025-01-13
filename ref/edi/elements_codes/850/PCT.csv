@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+PCT01,Percent Qualifier,M,1,2,ID
+PCT02,Percentage As Decimal,M,1,10,R

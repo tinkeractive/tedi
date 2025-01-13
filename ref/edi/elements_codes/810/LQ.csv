@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+LQ01,Code List Qualifier Code,O,1,3,ID
+LQ02,Industry Code,C,1,30,AN

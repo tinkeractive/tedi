@@ -1,0 +1,8 @@
+Element,Description,Req,Min Length,Max Length,Type
+BSN01,Transaction Set Purpose Code,M,2,2,ID
+BSN02,Shipment Identification,M,2,30,AN
+BSN03,Date,M,8,8,DT
+BSN04,Time,M,4,8,TM
+BSN05,Hierarchical Structure Code,O,4,4,ID
+BSN06,Transaction Type Code,C,2,2,ID
+BSN07,Status Reason Code,O,3,3,ID

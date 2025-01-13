@@ -1,0 +1,1 @@
+{"CB101":{"description": "Acquisition Data Code", "required": "M", "min_length": "2", "max_length": "2", "type": "ID"},"CB102":{"description": "Financing Type Code", "required": "O", "min_length": "1", "max_length": "1", "type": "ID"}}

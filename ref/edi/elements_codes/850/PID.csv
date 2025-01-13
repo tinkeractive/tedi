@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+PID01,Item Description Type,M,1,1,ID
+PID02,Product/Process Characteristic Code,O,2,3,ID
+PID03,Agency Qualifier Code,C,2,2,ID
+PID04,Product Description Code,C,1,12,AN
+PID05,Description,C,1,80,AN
+PID06,Surface/Layer/Position Code,O,2,2,ID
+PID07,Source Subqualifier,O,1,15,AN
+PID08,Yes/No Condition Or Response Code,O,1,1,ID
+PID09,Language Code,O,2,3,lD

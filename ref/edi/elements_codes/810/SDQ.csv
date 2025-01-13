@@ -1,0 +1,24 @@
+Element,Description,Req,Min Length,Max Length,Type
+SDQ01,Unit Or Basis For Measurement Code,M,2,2,ID
+SDQ02,Identification Code Qualifier,O,1,2,ID
+SDQ03,Identification Code,M,2,80,AN
+SDQ04,Quantity,M,1,15,R
+SDQ05,Identification Code,C,2,80,AN
+SDQ06,Quantity,C,1,15,R
+SDQ07,Identification Code,C,2,80,AN
+SDQ08,Quantity,C,1,15,R
+SDQ09,Identification Code,C,2,80,AN
+SDQ10,Quantity,C,1,15,R
+SDQ11,Identification Code,C,2,80,AN
+SDQ12,Quantity,C,1,15,R
+SDQ13,Identification Code,C,2,80,AN
+SDQ14,Quantity,C,1,15,R
+SDQ15,Identification Code,C,2,80,AN
+SDQ16,Quantity,C,1,15,R
+SDQ17,Identification Code,C,2,80,AN
+SDQ18,Quantity,C,1,15,R
+SDQ19,Identification Code,C,2,80,AN
+SDQ20,Quantity,C,1,15,R
+SDQ21,Identification Code,C,2,80,AN
+SDQ22,Quantity,C,1,15,R
+SDQ23,Location Identifier,O,1,30,AN

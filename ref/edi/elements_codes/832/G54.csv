@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+G5401,Quantity,M,1,15,R
+G5402,Unit Or Basis For Measurement Code,M,2,2,ID
+G5403,U.P.C. Case Code,C,12,12,AN
+G5404,Product/Service Id Qualifier,C,2,2,ID
+G5405,Product/Service Id,C,1,48,AN
+G5406,Free-Form Description,O,1,45,AN

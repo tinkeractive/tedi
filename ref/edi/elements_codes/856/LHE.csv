@@ -1,0 +1,6 @@
+Element,Description,Req,Min Length,Max Length,Type
+LHE01,Hazardous Material Shipping Name,M,1,25,AN
+LHE02,Hazardous Placard Notation,M,14,40,lD
+LHE03,Reference Identification Qualifier,M,2,3,ID
+LHE04,Reference Identification,M,1,50,AN
+LHE05,Reportable Quantity Code,O,2,2,ID

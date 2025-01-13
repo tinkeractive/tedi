@@ -1,0 +1,1 @@
+{"LHT01":{"description": "Hazardous Classification", "required": "O", "min_length": "1", "max_length": "30", "type": "lD"},"LHT02":{"description": "Hazardous Placard Notation", "required": "O", "min_length": "14", "max_length": "40", "type": "lD"},"LHT03":{"description": "Hazardous Endorsement", "required": "O", "min_length": "4", "max_length": "25", "type": "lD"}}

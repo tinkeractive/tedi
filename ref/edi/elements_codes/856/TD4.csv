@@ -1,0 +1,6 @@
+Element,Description,Req,Min Length,Max Length,Type
+TD401,Special Handling Code,C,2,3,ID
+TD402,Hazardous Material Code Qualifier,C,1,1,ID
+TD403,Hazardous Material Class Code,C,1,4,AN
+TD404,Description,C,1,80,AN
+TD405,Yes/No Condition Or Response Code,O,1,1,ID

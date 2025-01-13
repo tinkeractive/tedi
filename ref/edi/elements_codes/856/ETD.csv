@@ -1,0 +1,6 @@
+Element,Description,Req,Min Length,Max Length,Type
+ETD01,Excess Transportation Reason Code,M,1,2,ID
+ETD02,Excess Transportation Responsibility Code,M,1,1,ID
+ETD03,Reference Identification Qualifier,C,2,3,ID
+ETD04,Reference Identification,C,1,50,AN
+ETD05,Returnable Container Freight Payment Responsibility Code,O,1,2,ID

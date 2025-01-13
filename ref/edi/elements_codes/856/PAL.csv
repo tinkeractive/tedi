@@ -1,0 +1,18 @@
+Element,Description,Req,Min Length,Max Length,Type
+PAL01,Pallet Type Code,O,1,2,ID
+PAL02,Pallet Tiers,O,1,3,N0
+PAL03,Pallet Blocks,O,1,3,N0
+PAL04,Pack,O,1,6,N0
+PAL05,Unit Weight,C,1,8,R8
+PAL06,Unit Or Basis For Measurement Code,C,2,2,ID
+PAL07,Length,C,1,8,R8
+PAL08,Width,C,1,8,R8
+PAL09,Height,C,1,8,R8
+PAL10,Unit Or Basis For Measurement Code,C,2,2,ID
+PAL11,Gross Weight Per Pack,C,1,9,R9
+PAL12,Unit Or Basis For Measurement Code,C,2,2,ID
+PAL13,Gross Volume Per Pack,C,1,9,R9
+PAL14,Unit Or Basis For Measurement Code,C,2,2,ID
+PAL15,Pallet Exchange Code,O,1,1,ID
+PAL16,Inner Pack,O,1,6,N0
+PAL17,Pallet Structure Code,O,1,1,ID

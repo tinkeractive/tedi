@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+LEP01,Epa Waste Stream Number Code,O,4,6,lD
+LEP02,Waste Characteristics Code,O,12,16,lD
+LEP03,State Or Province Code,C,2,2,lD
+LEP04,Reference Identification,C,1,50,AN

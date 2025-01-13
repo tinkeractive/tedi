@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+CB101,Acquisition Data Code,M,2,2,ID
+CB102,Financing Type Code,O,1,1,ID

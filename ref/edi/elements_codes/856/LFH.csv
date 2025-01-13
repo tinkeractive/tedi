@@ -1,0 +1,9 @@
+Element,Description,Req,Min Length,Max Length,Type
+LFH01,Hazardous Material Shipment Information Qualifier,M,3,3,ID
+LFH02,Hazardous Material Shipment Information,M,1,25,AN
+LFH03,Hazardous Material Shipment Information,O,1,25,AN
+LFH04,Hazard Zone Code,O,1,1,ID
+LFH05,Unit Or Basis For Measurement Code,C,2,2,ID
+LFH06,Quantity,C,1,15,R
+LFH07,Quantity,O,1,15,R
+LFH08,Date,O,8,8,DT

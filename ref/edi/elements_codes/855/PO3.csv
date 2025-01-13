@@ -1,0 +1,9 @@
+Element,Description,Req,Min Length,Max Length,Type
+PO301,Change Reason Code,M,2,2,ID
+PO302,Date,O,8,8,DT
+PO303,Price Identifier Code,C,3,3,ID
+PO304,Unit Price,O,1,17,R
+PO305,Basis Of Unit Price Code,C,2,2,ID
+PO306,Quantity,M,1,15,R
+PO307,Unit Or Basis For Measurement Code,M,2,2,ID
+PO308,Description,O,1,80,AN

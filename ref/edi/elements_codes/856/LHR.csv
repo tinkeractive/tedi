@@ -1,0 +1,4 @@
+Element,Description,Req,Min Length,Max Length,Type
+LHR01,Reference Identification Qualifier,M,2,3,ID
+LHR02,Reference Identification,M,1,50,AN
+LHR03,Date,O,8,8,DT

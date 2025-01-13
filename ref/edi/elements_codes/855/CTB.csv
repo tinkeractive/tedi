@@ -1,0 +1,22 @@
+Element,Description,Req,Min Length,Max Length,Type
+CTB01,Restrictions/Conditions Qualifier,M,2,2,ID
+CTB02,Description,C,1,80,AN
+CTB03,Quantity Qualifier,C,2,2,ID
+CTB04,Quantity,C,1,15,R
+CTB05,Amount Qualifier Code,C,1,3,ID
+CTB06,Amount,C,1,15,N2
+CTB07,Unit Or Basis For Measurement Code,O,2,2,ID
+CTB08,Exponent,O,1,15,R
+CTB09,Multiplier,O,1,10,R
+CTB10,Unit Or Basis For Measurement Code,O,2,2,ID
+CTB11,Exponent,O,1,15,R
+CTB12,Multiplier,O,1,10,R
+CTB13,Unit Or Basis For Measurement Code,O,2,2,ID
+CTB14,Exponent,O,1,15,R
+CTB15,Multiplier,O,1,10,R
+CTB16,Unit Or Basis For Measurement Code,O,2,2,ID
+CTB17,Exponent,O,1,15,R
+CTB18,Multiplier,O,1,10,R
+CTB19,Unit Or Basis For Measurement Code,O,2,2,ID
+CTB20,Exponent,O,1,15,R
+CTB21,Multiplier,O,1,10,R

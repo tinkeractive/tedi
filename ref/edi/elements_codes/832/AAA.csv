@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+AAA01,Yes/No Condition Or Response Code,M,1,1,ID
+AAA02,Agency Qualifier Code,O,2,2,ID
+AAA03,Reject Reason Code,O,2,2,ID
+AAA04,Follow-Up Action Code,O,1,1,ID

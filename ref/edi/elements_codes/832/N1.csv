@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+N101,Entity Identifier Code,M,2,3,ID
+N102,Name,C,1,60,AN
+N103,Identification Code Qualifier,C,1,2,ID
+N104,Identification Code,C,2,80,AN
+N105,Entity Relationship Code,O,2,2,ID
+N106,Entity Identifier Code,O,2,3,ID

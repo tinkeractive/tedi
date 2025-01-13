@@ -1,0 +1,26 @@
+Element,Description,Req,Min Length,Max Length,Type
+CTP01,Class Of Trade Code,O,2,2,ID
+CTP02,Price Identifier Code,C,3,3,ID
+CTP03,Unit Price,C,1,17,R
+CTP04,Quantity,C,1,15,R
+CTP05,Unit Or Basis For Measurement Code,C,2,2,ID
+CTP06,Exponent,C,1,15,R
+CTP07,Multiplier,C,1,10,R
+CTP08,Unit Or Basis For Measurement Code,C,2,2,ID
+CTP09,Exponent,C,1,15,R
+CTP10,Multiplier,C,1,10,R
+CTP11,Unit Or Basis For Measurement Code,C,2,2,ID
+CTP12,Exponent,C,1,15,R
+CTP13,Multiplier,C,1,10,R
+CTP14,Unit Or Basis For Measurement Code,C,2,2,ID
+CTP15,Exponent,C,1,15,R
+CTP16,Multiplier,C,1,10,R
+CTP17,Unit Or Basis For Measurement Code,C,2,2,ID
+CTP18,Exponent,C,1,15,R
+CTP19,Multiplier,C,1,10,R
+CTP20,Price Multiplier Qualifier,O,3,3,ID
+CTP21,Multiplier,C,1,10,R
+CTP22,Monetary Amount,O,1,18,R
+CTP23,Basis Of Unit Price Code,O,2,2,ID
+CTP24,Condition Value,O,1,10,AN
+CTP25,Multiple Price Quantity,O,1,2,N0

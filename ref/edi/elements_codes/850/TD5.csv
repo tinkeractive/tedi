@@ -1,0 +1,16 @@
+Element,Description,Req,Min Length,Max Length,Type
+TD501,Routing Sequence Code,O,1,2,ID
+TD502,Identification Code Qualifier,C,1,2,ID
+TD503,Identification Code,C,2,80,AN
+TD504,Transportation Method/Type Code,C,1,2,ID
+TD505,Routing,C,1,35,AN
+TD506,Shipment/Order Status Code,C,2,2,ID
+TD507,Location Qualifier,O,1,2,ID
+TD508,Location Identifier,C,1,30,AN
+TD509,Transit Direction Code,O,2,2,ID
+TD510,Transit Time Direction Qualifier,O,2,2,ID
+TD511,Transit Time,C,1,4,R4
+TD512,Service Level Code,C,2,2,ID
+TD513,Service Level Code,C,2,2,ID
+TD514,Service Level Code,O,2,2,ID
+TD515,Country Code,O,2,3,lD

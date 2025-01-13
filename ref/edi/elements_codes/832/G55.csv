@@ -1,0 +1,34 @@
+Element,Description,Req,Min Length,Max Length,Type
+G5501,Product/Service Id Qualifier,M,2,2,ID
+G5502,Product/Service Id,M,1,48,AN
+G5503,Product/Service Id Qualifier,C,2,2,ID
+G5504,Product/Service Id,C,1,48,AN
+G5505,Height,C,1,8,R8
+G5506,Unit Or Basis For Measurement Code,C,2,2,ID
+G5507,Width,C,1,8,R8
+G5508,Unit Or Basis For Measurement Code,C,2,2,ID
+G5509,Length,C,1,8,R8
+G5510,Unit Or Basis For Measurement Code,C,2,2,ID
+G5511,Volume,C,1,8,R8
+G5512,Unit Or Basis For Measurement Code,C,2,2,ID
+G5513,Pack,O,1,6,N0
+G5514,Size,C,1,8,R8
+G5515,Unit Or Basis For Measurement Code,C,2,2,ID
+G5516,Cash Register Item Description,O,1,20,AN
+G5517,Cash Register Item Description,O,1,20,AN
+G5518,Coupon Family Code,O,3,3,AN
+G5519,Dated Product Number Of Days,O,1,4,N0
+G5520,Deposit Value,O,1,8,R8
+G5521,Yes/No Condition Or Response Code,O,1,1,ID
+G5522,Color,O,1,10,AN
+G5523,Unit Weight,C,1,8,R8
+G5524,Weight Qualifier,C,1,2,ID
+G5525,Weight Unit Code,C,1,1,ID
+G5526,Unit Weight,C,1,8,R8
+G5527,Weight Qualifier,C,1,2,ID
+G5528,Weight Unit Code,C,1,1,ID
+G5529,Product/Service Id Qualifier,C,2,2,ID
+G5530,Product/Service Id,C,1,48,AN
+G5531,Free-Form Description,O,1,45,AN
+G5532,Inner Pack,O,1,6,N0
+G5533,Packaging Code,O,3,5,AN

@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+TDS01,Amount,M,1,15,N2
+TDS02,Amount,O,1,15,N2
+TDS03,Amount,O,1,15,N2
+TDS04,Amount,O,1,15,N2

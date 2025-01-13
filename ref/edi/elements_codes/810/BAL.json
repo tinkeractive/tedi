@@ -1,0 +1,1 @@
+{"BAL01":{"description": "Balance Type Code", "required": "M", "min_length": "1", "max_length": "2", "type": "ID"},"BAL02":{"description": "Amount Qualifier Code", "required": "M", "min_length": "1", "max_length": "3", "type": "ID"},"BAL03":{"description": "Monetary Amount", "required": "M", "min_length": "1", "max_length": "18", "type": "R"}}

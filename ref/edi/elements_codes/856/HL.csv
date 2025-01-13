@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+HL01,Hierarchical Id Number,M,1,12,AN
+HL02,Hierarchical Parent Id Number,O,1,12,AN
+HL03,Hierarchical Level Code,M,1,2,ID
+HL04,Hierarchical Child Code,O,1,1,ID

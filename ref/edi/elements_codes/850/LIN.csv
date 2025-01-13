@@ -1,0 +1,42 @@
+Element,Description,Req,Min Length,Max Length,Type
+LIN01,Line Item Number,C,1,6,AN
+LIN01,Assigned Identification,O,1,20,AN
+LIN02,"Action Request/Notification, Coded",C,1,3,ID
+LIN02,Product/Service Id Qualifier,M,2,2,ID
+LIN03,Item Number,C,1,35,AN
+LIN03,Product/Service Id,M,1,48,AN
+LIN04,"Item Number Type, Coded",C,1,3,ID
+LIN04,Product/Service Id Qualifier,C,2,2,ID
+LIN05,Product/Service Id,C,1,48,AN
+LIN05,Code List Qualifier,C,1,3,ID
+LIN06,"Code List Responsible Agency, Coded",C,1,3,ID
+LIN06,Product/Service Id Qualifier,C,2,2,ID
+LIN07,Product/Service Id,C,1,48,AN
+LIN07,"Sub-Line Indicator, Coded",C,1,3,ID
+LIN08,Line Item Number,C,1,6,AN
+LIN08,Product/Service Id Qualifier,C,2,2,ID
+LIN09,Product/Service Id,C,1,48,AN
+LIN09,Configuration Level,C,1,2,N0
+LIN10,"Configuration, Coded",C,1,3,ID
+LIN10,Product/Service Id Qualifier,C,2,2,ID
+LIN11,Product/Service Id,C,1,48,AN
+LIN12,Product/Service Id Qualifier,C,2,2,ID
+LIN13,Product/Service Id,C,1,48,AN
+LIN14,Product/Service Id Qualifier,C,2,2,ID
+LIN15,Product/Service Id,C,1,48,AN
+LIN16,Product/Service Id Qualifier,C,2,2,ID
+LIN17,Product/Service Id,C,1,48,AN
+LIN18,Product/Service Id Qualifier,C,2,2,ID
+LIN19,Product/Service Id,C,1,48,AN
+LIN20,Product/Service Id Qualifier,C,2,2,ID
+LIN21,Product/Service Id,C,1,48,AN
+LIN22,Product/Service Id Qualifier,C,2,2,ID
+LIN23,Product/Service Id,C,1,48,AN
+LIN24,Product/Service Id Qualifier,C,2,2,ID
+LIN25,Product/Service Id,C,1,48,AN
+LIN26,Product/Service Id Qualifier,C,2,2,ID
+LIN27,Product/Service Id,C,1,48,AN
+LIN28,Product/Service Id Qualifier,C,2,2,ID
+LIN29,Product/Service Id,C,1,48,AN
+LIN30,Product/Service Id Qualifier,C,2,2,ID
+LIN31,Product/Service Id,C,1,48,AN

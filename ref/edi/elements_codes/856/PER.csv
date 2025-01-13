@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+PER01,Contact Function Code,M,2,2,ID
+PER02,Name,O,1,60,AN
+PER03,Communication Number Qualifier,C,2,2,ID
+PER04,Communication Number,C,1,256,AN
+PER05,Communication Number Qualifier,C,2,2,ID
+PER06,Communication Number,C,1,256,AN
+PER07,Communication Number Qualifier,C,2,2,ID
+PER08,Communication Number,C,1,256,AN
+PER09,Contact Inquiry Reference,O,1,20,AN

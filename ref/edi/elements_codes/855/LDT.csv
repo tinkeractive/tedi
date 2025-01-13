@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+LDT01,Lead Time Code,M,2,2,ID
+LDT02,Quantity,M,1,15,R
+LDT03,Unit Of Time Period Or Interval,M,2,2,ID
+LDT04,Date,O,8,8,DT

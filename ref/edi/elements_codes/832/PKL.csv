@@ -1,0 +1,14 @@
+Element,Description,Req,Min Length,Max Length,Type
+PKL01,Product/Service Id Qualifier,M,2,2,ID
+PKL02,Product/Service Id,M,1,48,AN
+PKL03,Unit Or Basis For Measurement Code,M,2,2,ID
+PKL04,Quantity,M,1,15,R
+PKL05,Height,C,1,8,R8
+PKL06,Width,C,1,8,R8
+PKL07,Item Depth,C,1,6,R6
+PKL08,Unit Or Basis For Measurement Code,C,2,2,ID
+PKL09,Gross Weight Per Pack,C,1,9,R9
+PKL10,Unit Or Basis For Measurement Code,C,2,2,ID
+PKL11,Gross Volume Per Pack,C,1,9,R9
+PKL12,Unit Or Basis For Measurement Code,C,2,2,ID
+PKL13,Yes/No Condition Or Response Code,O,1,1,ID

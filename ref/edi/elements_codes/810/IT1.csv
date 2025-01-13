@@ -1,0 +1,26 @@
+Element,Description,Req,Min Length,Max Length,Type
+IT101,Assigned Identification,O,1,20,AN
+IT102,Quantity Invoiced,C,1,15,R
+IT103,Unit Or Basis For Measurement Code,C,2,2,ID
+IT104,Unit Price,C,1,17,R
+IT105,Basis Of Unit Price Code,O,2,2,ID
+IT106,Product/Service Id Qualifier,C,2,2,ID
+IT107,Product/Service Id,C,1,48,AN
+IT108,Product/Service Id Qualifier,C,2,2,ID
+IT109,Product/Service Id,C,1,48,AN
+IT110,Product/Service Id Qualifier,C,2,2,ID
+IT111,Product/Service Id,C,1,48,AN
+IT112,Product/Service Id Qualifier,C,2,2,ID
+IT113,Product/Service Id,C,1,48,AN
+IT114,Product/Service Id Qualifier,C,2,2,ID
+IT115,Product/Service Id,C,1,48,AN
+IT116,Product/Service Id Qualifier,C,2,2,ID
+IT117,Product/Service Id,C,1,48,AN
+IT118,Product/Service Id Qualifier,C,2,2,ID
+IT119,Product/Service Id,C,1,48,AN
+IT120,Product/Service Id Qualifier,C,2,2,ID
+IT121,Product/Service Id,C,1,48,AN
+IT122,Product/Service Id Qualifier,C,2,2,ID
+IT123,Product/Service Id,C,1,48,AN
+IT124,Product/Service Id Qualifier,C,2,2,ID
+IT125,Product/Service Id,C,1,48,AN

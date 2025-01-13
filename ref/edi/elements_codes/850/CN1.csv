@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+CN101,Contract Type Code,M,2,2,ID
+CN102,Monetary Amount,O,1,18,R
+CN103,"Percent, Decimal Format",O,1,6,R6
+CN104,Reference Identification,O,1,50,AN
+CN105,Terms Discount Percent,O,1,6,R6
+CN106,Version Identifier,O,1,30,AN

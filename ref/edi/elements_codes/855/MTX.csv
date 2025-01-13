@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+MTX01,Note Reference Code,O,3,3,ID
+MTX02,Textual Data,C,1,4096,AN
+MTX03,Textual Data,O,1,4096,AN
+MTX04,Printer Carriage Control Code,C,2,2,ID
+MTX05,Number,O,1,9,N0
+MTX06,Language Code,O,2,3,lD

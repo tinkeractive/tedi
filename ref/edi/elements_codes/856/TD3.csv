@@ -1,0 +1,11 @@
+Element,Description,Req,Min Length,Max Length,Type
+TD301,Equipment Description Code,C,2,2,ID
+TD302,Equipment Initial,O,1,4,AN
+TD303,Equipment Number,C,1,15,AN
+TD304,Weight Qualifier,O,1,2,ID
+TD305,Weight,C,1,10,R
+TD306,Unit Or Basis For Measurement Code,C,2,2,ID
+TD307,Ownership Code,O,1,1,ID
+TD308,Seal Status Code,O,2,2,ID
+TD309,Seal Number,O,2,15,AN
+TD310,Equipment Type,C,4,4,lD

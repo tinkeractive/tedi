@@ -1,0 +1,1 @@
+{"N201":{"description": "Name", "required": "M", "min_length": "1", "max_length": "60", "type": "AN"},"N202":{"description": "Name", "required": "O", "min_length": "1", "max_length": "60", "type": "AN"}}

@@ -1,0 +1,14 @@
+Element,Description,Req,Min Length,Max Length,Type
+PWK01,Report Type Code,M,2,2,ID
+PWK02,Report Transmission Code,O,1,2,ID
+PWK03,Report Copies Needed,O,1,2,N0
+PWK04,Entity Identifier Code,O,2,3,ID
+PWK05,Identification Code Qualifier,C,1,2,ID
+PWK06,Identification Code,C,2,80,AN
+PWK07,Description,O,1,80,AN
+PWK08,Paperwork/Report Action Code,O,1,2,ID
+PWK09,Paperwork/Report Action Code,O,1,2,ID
+PWK10,Paperwork/Report Action Code,O,1,2,ID
+PWK11,Paperwork/Report Action Code,O,1,2,ID
+PWK12,Paperwork/Report Action Code,O,1,2,ID
+PWK13,Request Category Code,O,1,2,ID

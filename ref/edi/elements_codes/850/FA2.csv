@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+FA201,Breakdown Structure Detail Code,M,2,2,ID
+FA202,Financial Information Code,M,1,80,AN

@@ -1,0 +1,1 @@
+{"PCT01":{"description": "Percent Qualifier", "required": "M", "min_length": "1", "max_length": "2", "type": "ID"},"PCT02":{"description": "Percentage As Decimal", "required": "M", "min_length": "1", "max_length": "10", "type": "R"}}

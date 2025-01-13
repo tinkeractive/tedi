@@ -1,0 +1,4 @@
+Element,Description,Req,Min Length,Max Length,Type
+AMT01,Amount Qualifier Code,M,1,3,ID
+AMT02,Monetary Amount,M,1,18,R
+AMT03,Credit/Debit Flag Code,O,1,1,ID

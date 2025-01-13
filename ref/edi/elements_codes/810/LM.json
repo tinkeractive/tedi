@@ -1,0 +1,1 @@
+{"LM01":{"description": "Agency Qualifier Code", "required": "M", "min_length": "2", "max_length": "2", "type": "ID"},"LM02":{"description": "Source Subqualifier", "required": "O", "min_length": "1", "max_length": "15", "type": "AN"}}

@@ -1,0 +1,9 @@
+Element,Description,Req,Min Length,Max Length,Type
+ISS01,Number Of Units Shipped,C,1,10,R
+ISS02,Unit Or Basis For Measurement Code,C,2,2,ID
+ISS03,Weight,C,1,10,R
+ISS04,Unit Or Basis For Measurement Code,C,2,2,ID
+ISS05,Volume,C,1,8,R8
+ISS06,Unit Or Basis For Measurement Code,C,2,2,ID
+ISS07,Quantity,O,1,15,R
+ISS08,Weight,O,1,10,R

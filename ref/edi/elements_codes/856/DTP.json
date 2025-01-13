@@ -1,0 +1,1 @@
+{"DTP01":{"description": "Date/Time Qualifier", "required": "M", "min_length": "3", "max_length": "3", "type": "ID"},"DTP02":{"description": "Date Time Period Format Qualifier", "required": "M", "min_length": "2", "max_length": "3", "type": "ID"},"DTP03":{"description": "Date Time Period", "required": "M", "min_length": "1", "max_length": "35", "type": "AN"}}

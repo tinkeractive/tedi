@@ -1,0 +1,1 @@
+{"NTE01":{"description": "Note Reference Code", "required": "O", "min_length": "3", "max_length": "3", "type": "ID"},"NTE02":{"description": "Description", "required": "M", "min_length": "1", "max_length": "80", "type": "AN"}}

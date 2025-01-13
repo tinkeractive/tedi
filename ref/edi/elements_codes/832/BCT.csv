@@ -1,0 +1,11 @@
+Element,Description,Req,Min Length,Max Length,Type
+BCT01,Catalog Purpose Code,M,2,2,ID
+BCT02,Catalog Number,O,1,15,AN
+BCT03,Catalog Version Number,O,1,15,AN
+BCT04,Catalog Revision Number,O,1,6,AN
+BCT05,Unit Or Basis For Measurement Code,O,2,2,ID
+BCT06,Catalog Number,O,1,15,AN
+BCT07,Catalog Version Number,O,1,15,AN
+BCT08,Catalog Revision Number,O,1,6,AN
+BCT09,Description,O,1,80,AN
+BCT10,Transaction Set Purpose Code,O,2,2,ID

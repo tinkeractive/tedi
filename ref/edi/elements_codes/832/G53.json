@@ -1,0 +1,1 @@
+{"G5301":{"description": "Maintenance Type Code", "required": "M", "min_length": "3", "max_length": "3", "type": "ID"}}

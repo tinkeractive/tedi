@@ -1,0 +1,30 @@
+Element,Description,Req,Min Length,Max Length,Type
+G3901,U.P.C. Case Code,C,12,12,AN
+G3902,Product/Service Id Qualifier,C,2,2,ID
+G3903,Product/Service Id,C,1,48,AN
+G3904,Special Handling Code,O,2,3,ID
+G3905,Unit Weight,C,1,8,R8
+G3906,Weight Qualifier,C,1,2,ID
+G3907,Weight Unit Code,C,1,1,ID
+G3908,Height,C,1,8,R8
+G3909,Unit Or Basis For Measurement Code,C,2,2,ID
+G3910,Width,C,1,8,R8
+G3911,Unit Or Basis For Measurement Code,C,2,2,ID
+G3912,Length,C,1,8,R8
+G3913,Unit Or Basis For Measurement Code,C,2,2,ID
+G3914,Volume,C,1,8,R8
+G3915,Unit Or Basis For Measurement Code,C,2,2,ID
+G3916,Pallet Block And Tiers,O,6,6,N0
+G3917,Pack,O,1,6,N0
+G3918,Size,C,1,8,R8
+G3919,Unit Or Basis For Measurement Code,C,2,2,ID
+G3920,Color,O,1,10,AN
+G3921,Order Sizing Factor,O,1,10,R
+G3922,Alternate Tiers Per Pallet,O,1,3,lD
+G3923,Product/Service Id Qualifier,C,2,2,ID
+G3924,Product/Service Id,C,1,48,AN
+G3925,Weight Qualifier,C,1,2,ID
+G3926,Unit Weight,C,1,8,R8
+G3927,Inner Pack,O,1,6,N0
+G3928,Packaging Code,O,3,5,AN
+G3929,Cash Register Item Description,O,1,20,AN

@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+GF01,Reference Identification Qualifier,C,2,3,ID
+GF02,Reference Identification,C,1,50,AN
+GF03,Contract Number,O,1,30,AN
+GF04,Monetary Amount,O,1,18,R
+GF05,Reference Identification Qualifier,C,2,3,ID
+GF06,Reference Identification,C,1,50,AN
+GF07,Release Number,O,1,30,AN
+GF08,Reference Identification Qualifier,C,2,3,ID
+GF09,Reference Identification,C,1,50,AN

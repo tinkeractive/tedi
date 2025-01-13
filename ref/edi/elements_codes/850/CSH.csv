@@ -1,0 +1,11 @@
+Element,Description,Req,Min Length,Max Length,Type
+CSH01,Sales Requirement Code,O,1,2,ID
+CSH02,Action Code,O,1,2,ID
+CSH03,Amount,C,1,15,N2
+CSH04,Account Number,O,1,35,AN
+CSH05,Date,O,8,8,DT
+CSH06,Agency Qualifier Code,C,2,2,ID
+CSH07,Special Services Code,C,2,10,ID
+CSH08,Product/Service Substitution Code,O,1,2,ID
+CSH09,Percentage As Decimal,C,1,10,R
+CSH10,Percent Qualifier,C,1,2,ID

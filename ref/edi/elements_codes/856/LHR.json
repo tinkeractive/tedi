@@ -1,0 +1,1 @@
+{"LHR01":{"description": "Reference Identification Qualifier", "required": "M", "min_length": "2", "max_length": "3", "type": "ID"},"LHR02":{"description": "Reference Identification", "required": "M", "min_length": "1", "max_length": "50", "type": "AN"},"LHR03":{"description": "Date", "required": "O", "min_length": "8", "max_length": "8", "type": "DT"}}

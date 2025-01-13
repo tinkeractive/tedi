@@ -1,0 +1,896 @@
+{
+    "ST": {
+        "min": 1,
+        "max": 1,
+        "segments": {
+            "BEG": {
+                "min": 1,
+                "max": 1
+            },
+            "CUR": {
+                "min": 0,
+                "max": 1
+            },
+            "REF": {
+                "min": 0,
+                "max": 99999
+            },
+            "PER": {
+                "min": 0,
+                "max": 3
+            },
+            "TAX": {
+                "min": 0,
+                "max": 99999
+            },
+            "FOB": {
+                "min": 0,
+                "max": 99999
+            },
+            "CTP": {
+                "min": 0,
+                "max": 99999
+            },
+            "PAM": {
+                "min": 0,
+                "max": 10
+            },
+            "CSH": {
+                "min": 0,
+                "max": 5
+            },
+            "TC2": {
+                "min": 0,
+                "max": 99999
+            },
+            "SAC": {
+                "min": 0,
+                "max": 25,
+                "segments": {
+                    "CUR": {
+                        "min": 0,
+                        "max": 1
+                    }
+                }
+            },
+            "ITD": {
+                "min": 0,
+                "max": 99999
+            },
+            "DIS": {
+                "min": 0,
+                "max": 20
+            },
+            "INC": {
+                "min": 0,
+                "max": 1
+            },
+            "DTM": {
+                "min": 0,
+                "max": 10
+            },
+            "LIN": {
+                "min": 0,
+                "max": 5
+            },
+            "SI": {
+                "min": 0,
+                "max": 99999
+            },
+            "PID": {
+                "min": 0,
+                "max": 200
+            },
+            "MEA": {
+                "min": 0,
+                "max": 40
+            },
+            "PWK": {
+                "min": 0,
+                "max": 25
+            },
+            "PKG": {
+                "min": 0,
+                "max": 200
+            },
+            "TD1": {
+                "min": 0,
+                "max": 2
+            },
+            "TD5": {
+                "min": 0,
+                "max": 99999
+            },
+            "TD3": {
+                "min": 0,
+                "max": 12
+            },
+            "TD4": {
+                "min": 0,
+                "max": 5
+            },
+            "MAN": {
+                "min": 0,
+                "max": 10
+            },
+            "PCT": {
+                "min": 0,
+                "max": 99999
+            },
+            "CTB": {
+                "min": 0,
+                "max": 5
+            },
+            "TXI": {
+                "min": 0,
+                "max": 99999
+            },
+            "LDT": {
+                "min": 0,
+                "max": 99999,
+                "segments": {
+                    "QTY": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "MTX": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "REF": {
+                        "min": 0,
+                        "max": 99999
+                    }
+                }
+            },
+            "AMT": {
+                "min": 0,
+                "max": 99999,
+                "segments": {
+                    "REF": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "DTM": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "PCT": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "FA1": {
+                        "min": 0,
+                        "max": 99999,
+                        "segments": {
+                            "FA2": {
+                                "min": 1,
+                                "max": 99999
+                            }
+                        }
+                    }
+                }
+            },
+            "N9": {
+                "min": 0,
+                "max": 1000,
+                "segments": {
+                    "DTM": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "MTX": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "PWK": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "EFI": {
+                        "min": 0,
+                        "max": 99999
+                    }
+                }
+            },
+            "N1": {
+                "min": 0,
+                "max": 200,
+                "segments": {
+                    "N2": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "IN2": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "N3": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "N4": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "NX2": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "REF": {
+                        "min": 0,
+                        "max": 12
+                    },
+                    "PER": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "SI": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "FOB": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "TD1": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "TD5": {
+                        "min": 0,
+                        "max": 12
+                    },
+                    "TD3": {
+                        "min": 0,
+                        "max": 12
+                    },
+                    "TD4": {
+                        "min": 0,
+                        "max": 5
+                    },
+                    "PKG": {
+                        "min": 0,
+                        "max": 200
+                    }
+                }
+            },
+            "LM": {
+                "min": 0,
+                "max": 99999,
+                "segments": {
+                    "LQ": {
+                        "min": 1,
+                        "max": 99999
+                    }
+                }
+            },
+            "SPI": {
+                "min": 0,
+                "max": 99999,
+                "segments": {
+                    "REF": {
+                        "min": 0,
+                        "max": 5
+                    },
+                    "DTM": {
+                        "min": 0,
+                        "max": 5
+                    },
+                    "MTX": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "N1": {
+                        "min": 0,
+                        "max": 20,
+                        "segments": {
+                            "N2": {
+                                "min": 0,
+                                "max": 2
+                            },
+                            "N3": {
+                                "min": 0,
+                                "max": 2
+                            },
+                            "N4": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "REF": {
+                                "min": 0,
+                                "max": 20
+                            },
+                            "G61": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "MTX": {
+                                "min": 0,
+                                "max": 99999
+                            }
+                        }
+                    },
+                    "CB1": {
+                        "min": 0,
+                        "max": 99999,
+                        "segments": {
+                            "REF": {
+                                "min": 0,
+                                "max": 20
+                            },
+                            "DTM": {
+                                "min": 0,
+                                "max": 5
+                            },
+                            "LDT": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "MTX": {
+                                "min": 0,
+                                "max": 99999
+                            }
+                        }
+                    }
+                }
+            },
+            "ADV": {
+                "min": 0,
+                "max": 99999,
+                "segments": {
+                    "DTM": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "MTX": {
+                        "min": 0,
+                        "max": 99999
+                    }
+                }
+            },
+            "PO1": {
+                "min": 1,
+                "max": 100000,
+                "segments": {
+                    "LIN": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "SI": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "CUR": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "CN1": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "PO3": {
+                        "min": 0,
+                        "max": 25
+                    },
+                    "CTP": {
+                        "min": 0,
+                        "max": 99999,
+                        "segments": {
+                            "CUR": {
+                                "min": 0,
+                                "max": 1
+                            }
+                        }
+                    },
+                    "PAM": {
+                        "min": 0,
+                        "max": 10
+                    },
+                    "MEA": {
+                        "min": 0,
+                        "max": 40
+                    },
+                    "PID": {
+                        "min": 0,
+                        "max": 1000,
+                        "segments": {
+                            "MEA": {
+                                "min": 0,
+                                "max": 10
+                            }
+                        }
+                    },
+                    "PWK": {
+                        "min": 0,
+                        "max": 25
+                    },
+                    "PO4": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "REF": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "PER": {
+                        "min": 0,
+                        "max": 3
+                    },
+                    "SAC": {
+                        "min": 0,
+                        "max": 25,
+                        "segments": {
+                            "CUR": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "CTP": {
+                                "min": 0,
+                                "max": 1
+                            }
+                        }
+                    },
+                    "IT8": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "CSH": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "ITD": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "DIS": {
+                        "min": 0,
+                        "max": 20
+                    },
+                    "INC": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "TAX": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "FOB": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "SDQ": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "IT3": {
+                        "min": 0,
+                        "max": 5
+                    },
+                    "DTM": {
+                        "min": 0,
+                        "max": 10
+                    },
+                    "TC2": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "TD1": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "TD5": {
+                        "min": 0,
+                        "max": 12
+                    },
+                    "TD3": {
+                        "min": 0,
+                        "max": 12
+                    },
+                    "TD4": {
+                        "min": 0,
+                        "max": 5
+                    },
+                    "PCT": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "MAN": {
+                        "min": 0,
+                        "max": 10
+                    },
+                    "MTX": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "SPI": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "TXI": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "CTB": {
+                        "min": 0,
+                        "max": 99999
+                    },
+                    "QTY": {
+                        "min": 0,
+                        "max": 99999,
+                        "segments": {
+                            "SI": {
+                                "min": 0,
+                                "max": 99999
+                            }
+                        }
+                    },
+                    "SCH": {
+                        "min": 0,
+                        "max": 200,
+                        "segments": {
+                            "TD1": {
+                                "min": 0,
+                                "max": 2
+                            },
+                            "TD5": {
+                                "min": 0,
+                                "max": 12
+                            },
+                            "TD3": {
+                                "min": 0,
+                                "max": 12
+                            },
+                            "TD4": {
+                                "min": 0,
+                                "max": 5
+                            },
+                            "REF": {
+                                "min": 0,
+                                "max": 99999
+                            }
+                        }
+                    },
+                    "PKG": {
+                        "min": 0,
+                        "max": 200,
+                        "segments": {
+                            "MEA": {
+                                "min": 0,
+                                "max": 99999
+                            }
+                        }
+                    },
+                    "LS": {
+                        "min": 0,
+                        "max": 1,
+                        "segments": {
+                            "LDT": {
+                                "min": 1,
+                                "max": 99999,
+                                "segments": {
+                                    "QTY": {
+                                        "min": 0,
+                                        "max": 99999
+                                    },
+                                    "MTX": {
+                                        "min": 0,
+                                        "max": 99999
+                                    },
+                                    "REF": {
+                                        "min": 0,
+                                        "max": 3
+                                    },
+                                    "LM": {
+                                        "min": 0,
+                                        "max": 99999,
+                                        "segments": {
+                                            "LQ": {
+                                                "min": 1,
+                                                "max": 99999
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "LE": {
+                                "min": 1,
+                                "max": 1
+                            }
+                        }
+                    },
+                    "N9": {
+                        "min": 0,
+                        "max": 1000,
+                        "segments": {
+                            "DTM": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "MEA": {
+                                "min": 0,
+                                "max": 40
+                            },
+                            "MTX": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "PWK": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "EFI": {
+                                "min": 0,
+                                "max": 99999
+                            }
+                        }
+                    },
+                    "N1": {
+                        "min": 0,
+                        "max": 200,
+                        "segments": {
+                            "N2": {
+                                "min": 0,
+                                "max": 2
+                            },
+                            "IN2": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "N3": {
+                                "min": 0,
+                                "max": 2
+                            },
+                            "N4": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "QTY": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "NX2": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "REF": {
+                                "min": 0,
+                                "max": 12
+                            },
+                            "PER": {
+                                "min": 0,
+                                "max": 3
+                            },
+                            "SI": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "DTM": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "FOB": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "SCH": {
+                                "min": 0,
+                                "max": 200
+                            },
+                            "TD1": {
+                                "min": 0,
+                                "max": 2
+                            },
+                            "TD5": {
+                                "min": 0,
+                                "max": 12
+                            },
+                            "TD3": {
+                                "min": 0,
+                                "max": 12
+                            },
+                            "TD4": {
+                                "min": 0,
+                                "max": 5
+                            },
+                            "PKG": {
+                                "min": 0,
+                                "max": 200
+                            },
+                            "LDT": {
+                                "min": 0,
+                                "max": 99999,
+                                "segments": {
+                                    "MAN": {
+                                        "min": 0,
+                                        "max": 10
+                                    },
+                                    "QTY": {
+                                        "min": 0,
+                                        "max": 5
+                                    },
+                                    "MTX": {
+                                        "min": 0,
+                                        "max": 99999
+                                    },
+                                    "REF": {
+                                        "min": 0,
+                                        "max": 3
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "SLN": {
+                        "min": 0,
+                        "max": 1000,
+                        "segments": {
+                            "MTX": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "SI": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "PID": {
+                                "min": 0,
+                                "max": 1000
+                            },
+                            "PO3": {
+                                "min": 0,
+                                "max": 104
+                            },
+                            "MEA": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "TC2": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "ADV": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "DTM": {
+                                "min": 0,
+                                "max": 10
+                            },
+                            "CTP": {
+                                "min": 0,
+                                "max": 25
+                            },
+                            "PAM": {
+                                "min": 0,
+                                "max": 10
+                            },
+                            "PO4": {
+                                "min": 0,
+                                "max": 1
+                            },
+                            "TAX": {
+                                "min": 0,
+                                "max": 3
+                            },
+                            "N9": {
+                                "min": 0,
+                                "max": 99999,
+                                "segments": {
+                                    "DTM": {
+                                        "min": 0,
+                                        "max": 99999
+                                    },
+                                    "MTX": {
+                                        "min": 0,
+                                        "max": 99999
+                                    }
+                                }
+                            },
+                            "SAC": {
+                                "min": 0,
+                                "max": 25,
+                                "segments": {
+                                    "CUR": {
+                                        "min": 0,
+                                        "max": 1
+                                    },
+                                    "CTP": {
+                                        "min": 0,
+                                        "max": 1
+                                    }
+                                }
+                            },
+                            "QTY": {
+                                "min": 0,
+                                "max": 99999,
+                                "segments": {
+                                    "SI": {
+                                        "min": 0,
+                                        "max": 99999
+                                    }
+                                }
+                            },
+                            "N1": {
+                                "min": 0,
+                                "max": 10,
+                                "segments": {
+                                    "N2": {
+                                        "min": 0,
+                                        "max": 2
+                                    },
+                                    "IN2": {
+                                        "min": 0,
+                                        "max": 99999
+                                    },
+                                    "N3": {
+                                        "min": 0,
+                                        "max": 2
+                                    },
+                                    "N4": {
+                                        "min": 0,
+                                        "max": 1
+                                    },
+                                    "NX2": {
+                                        "min": 0,
+                                        "max": 99999
+                                    },
+                                    "REF": {
+                                        "min": 0,
+                                        "max": 12
+                                    },
+                                    "PER": {
+                                        "min": 0,
+                                        "max": 3
+                                    },
+                                    "SI": {
+                                        "min": 0,
+                                        "max": 99999
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "AMT": {
+                        "min": 0,
+                        "max": 99999,
+                        "segments": {
+                            "REF": {
+                                "min": 0,
+                                "max": 99999
+                            },
+                            "PCT": {
+                                "min": 0,
+                                "max": 99999
+                            }
+                        }
+                    },
+                    "LM": {
+                        "min": 0,
+                        "max": 99999,
+                        "segments": {
+                            "LQ": {
+                                "min": 1,
+                                "max": 99999
+                            }
+                        }
+                    }
+                }
+            },
+            "CTT": {
+                "min": 0,
+                "max": 1,
+                "segments": {
+                    "AMT": {
+                        "min": 0,
+                        "max": 1
+                    }
+                }
+            },
+            "SE": {
+                "min": 1,
+                "max": 1
+            }
+        }
+    }
+}

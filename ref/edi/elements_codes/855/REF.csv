@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+REF01,Reference Identification Qualifier,M,2,3,ID
+REF02,Reference Identification,C,1,50,AN
+REF03,Description,C,1,80,AN
+REF04,Reference Identification Qualifier,O,2,3,ID
+REF05,Reference Identification,O,1,50,AN
+REF06,Reference Identification Qualifier,O,2,3,ID
+REF07,Reference Identification,O,1,50,AN
+REF08,Reference Identification Qualifier,O,2,3,ID
+REF09,Reference Identification,O,1,50,AN

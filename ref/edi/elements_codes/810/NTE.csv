@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+NTE01,Note Reference Code,O,3,3,ID
+NTE02,Description,M,1,80,AN

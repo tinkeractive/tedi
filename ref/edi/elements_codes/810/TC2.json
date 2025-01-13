@@ -1,0 +1,1 @@
+{"TC201":{"description": "Commodity Code Qualifier", "required": "M", "min_length": "1", "max_length": "1", "type": "ID"},"TC202":{"description": "Commodity Code", "required": "M", "min_length": "1", "max_length": "30", "type": "AN"}}

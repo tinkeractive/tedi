@@ -1,0 +1,13 @@
+Element,Description,Req,Min Length,Max Length,Type
+SCH01,Quantity,M,1,15,R
+SCH02,Unit Or Basis For Measurement Code,M,2,2,ID
+SCH03,Entity Identifier Code,O,2,3,ID
+SCH04,Name,C,1,60,AN
+SCH05,Date/Time Qualifier,M,3,3,ID
+SCH06,Date,M,8,8,DT
+SCH07,Time,O,4,8,TM
+SCH08,Date/Time Qualifier,C,3,3,ID
+SCH09,Date,C,8,8,DT
+SCH10,Time,C,4,8,TM
+SCH11,Request Reference Number,O,1,45,AN
+SCH12,Assigned Identification,O,1,20,AN

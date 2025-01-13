@@ -1,0 +1,28 @@
+Element,Description,Req,Min Length,Max Length,Type
+IT801,Sales Requirement Code,C,1,2,ID
+IT802,Action Code,C,1,2,ID
+IT803,Amount,C,1,15,N2
+IT804,Account Number,O,1,35,AN
+IT805,Date,C,8,8,DT
+IT806,Agency Qualifier Code,O,2,2,ID
+IT807,Product/Service Substitution Code,C,1,2,ID
+IT808,Product/Service Id Qualifier,C,2,2,ID
+IT809,Product/Service Id,C,1,48,AN
+IT810,Product/Service Id Qualifier,C,2,2,ID
+IT811,Product/Service Id,C,1,48,AN
+IT812,Product/Service Id Qualifier,C,2,2,ID
+IT813,Product/Service Id,C,1,48,AN
+IT814,Product/Service Id Qualifier,C,2,2,ID
+IT815,Product/Service Id,C,1,48,AN
+IT816,Product/Service Id Qualifier,C,2,2,ID
+IT817,Product/Service Id,C,1,48,AN
+IT818,Product/Service Id Qualifier,C,2,2,ID
+IT819,Product/Service Id,C,1,48,AN
+IT820,Product/Service Id Qualifier,C,2,2,ID
+IT821,Product/Service Id,C,1,48,AN
+IT822,Product/Service Id Qualifier,C,2,2,ID
+IT823,Product/Service Id,C,1,48,AN
+IT824,Product/Service Id Qualifier,C,2,2,ID
+IT825,Product/Service Id,C,1,48,AN
+IT826,Product/Service Id Qualifier,C,2,2,ID
+IT827,Product/Service Id,C,1,48,AN

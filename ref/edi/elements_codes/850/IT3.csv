@@ -1,0 +1,6 @@
+Element,Description,Req,Min Length,Max Length,Type
+IT301,Number Of Units Shipped,C,1,10,R
+IT302,Unit Or Basis For Measurement Code,C,2,2,ID
+IT303,Shipment/Order Status Code,C,2,2,ID
+IT304,Quantity Difference,C,1,9,R9
+IT305,Change Reason Code,C,2,2,ID

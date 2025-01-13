@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+N301,Address Information,M,1,55,AN
+N302,Address Information,O,1,55,AN

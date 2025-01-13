@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+G2601,Price Condition Code,M,2,2,ID
+G2602,Date Qualifier,C,2,2,ID
+G2603,Date,C,8,8,DT
+G2604,Quantity Basis,C,3,3,ID
+G2605,Quantity,C,1,15,R
+G2606,Unit Or Basis For Measurement Code,C,2,2,ID

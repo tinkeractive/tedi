@@ -1,0 +1,8 @@
+Element,Description,Req,Min Length,Max Length,Type
+CRC01,Code Category,M,2,2,ID
+CRC02,Yes/No Condition Or Response Code,M,1,1,ID
+CRC03,Condition Indicator,M,2,3,ID
+CRC04,Condition Indicator,O,2,3,ID
+CRC05,Condition Indicator,O,2,3,ID
+CRC06,Condition Indicator,O,2,3,ID
+CRC07,Condition Indicator,O,2,3,ID

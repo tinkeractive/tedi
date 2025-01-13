@@ -1,0 +1,1 @@
+{"AMT01":{"description": "Amount Qualifier Code", "required": "M", "min_length": "1", "max_length": "3", "type": "ID"},"AMT02":{"description": "Monetary Amount", "required": "M", "min_length": "1", "max_length": "18", "type": "R"},"AMT03":{"description": "Credit/Debit Flag Code", "required": "O", "min_length": "1", "max_length": "1", "type": "ID"}}

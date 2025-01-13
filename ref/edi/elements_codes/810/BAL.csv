@@ -1,0 +1,4 @@
+Element,Description,Req,Min Length,Max Length,Type
+BAL01,Balance Type Code,M,1,2,ID
+BAL02,Amount Qualifier Code,M,1,3,ID
+BAL03,Monetary Amount,M,1,18,R

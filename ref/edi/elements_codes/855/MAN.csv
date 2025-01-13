@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+MAN01,Marks And Numbers Qualifier,M,1,2,ID
+MAN02,Marks And Numbers,M,1,48,AN
+MAN03,Marks And Numbers,O,1,48,AN
+MAN04,Marks And Numbers Qualifier,C,1,2,ID
+MAN05,Marks And Numbers,C,1,48,AN
+MAN06,Marks And Numbers,O,1,48,AN

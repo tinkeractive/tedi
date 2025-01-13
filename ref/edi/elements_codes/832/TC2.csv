@@ -1,0 +1,3 @@
+Element,Description,Req,Min Length,Max Length,Type
+TC201,Commodity Code Qualifier,M,1,1,ID
+TC202,Commodity Code,M,1,30,AN

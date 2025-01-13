@@ -1,0 +1,1 @@
+{"TSD01":{"description": "Assigned Identification", "required": "O", "min_length": "1", "max_length": "20", "type": "AN"},"TSD02":{"description": "Position", "required": "O", "min_length": "1", "max_length": "3", "type": "AN"}}

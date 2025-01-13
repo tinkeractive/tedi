@@ -1,0 +1,7 @@
+Element,Description,Req,Min Length,Max Length,Type
+LFG01,Description,M,1,80,AN
+LFG02,Hazardous Classification,M,1,30,lD
+LFG03,Un/Na Identification Code,M,6,6,lD
+LFG04,Hazardous Placard Notation,M,14,40,lD
+LFG05,Packing Group Code,O,1,3,lD
+LFG06,Hazardous Material Regulations Exception Code,O,1,1,ID

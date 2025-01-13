@@ -1,0 +1,1 @@
+{"LQ01":{"description": "Code List Qualifier Code", "required": "O", "min_length": "1", "max_length": "3", "type": "ID"},"LQ02":{"description": "Industry Code", "required": "C", "min_length": "1", "max_length": "30", "type": "AN"}}

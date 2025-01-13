@@ -1,0 +1,10 @@
+Element,Description,Req,Min Length,Max Length,Type
+FOB01,Shipment Method Of Payment,M,2,2,ID
+FOB02,Location Qualifier,C,1,2,ID
+FOB03,Description,O,1,80,AN
+FOB04,Transportation Terms Qualifier Code,O,2,2,ID
+FOB05,Transportation Terms Code,C,3,3,ID
+FOB06,Location Qualifier,C,1,2,ID
+FOB07,Description,O,1,80,AN
+FOB08,Risk Of Loss Code,O,2,2,ID
+FOB09,Description,C,1,80,AN

@@ -1,0 +1,26 @@
+Element,Description,Req,Min Length,Max Length,Type
+PO101,Assigned Identification,O,1,20,AN
+PO102,Quantity,C,1,15,R
+PO103,Unit Or Basis For Measurement Code,O,2,2,ID
+PO104,Unit Price,C,1,17,R
+PO105,Basis Of Unit Price Code,O,2,2,ID
+PO106,Product/Service Id Qualifier,C,2,2,ID
+PO107,Product/Service Id,C,1,48,AN
+PO108,Product/Service Id Qualifier,C,2,2,ID
+PO109,Product/Service Id,C,1,48,AN
+PO110,Product/Service Id Qualifier,C,2,2,ID
+PO111,Product/Service Id,C,1,48,AN
+PO112,Product/Service Id Qualifier,C,2,2,ID
+PO113,Product/Service Id,C,1,48,AN
+PO114,Product/Service Id Qualifier,C,2,2,ID
+PO115,Product/Service Id,C,1,48,AN
+PO116,Product/Service Id Qualifier,C,2,2,ID
+PO117,Product/Service Id,C,1,48,AN
+PO118,Product/Service Id Qualifier,C,2,2,ID
+PO119,Product/Service Id,C,1,48,AN
+PO120,Product/Service Id Qualifier,C,2,2,ID
+PO121,Product/Service Id,C,1,48,AN
+PO122,Product/Service Id Qualifier,C,2,2,ID
+PO123,Product/Service Id,C,1,48,AN
+PO124,Product/Service Id Qualifier,C,2,2,ID
+PO125,Product/Service Id,C,1,48,AN

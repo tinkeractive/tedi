@@ -1,0 +1,4 @@
+Element,Description,Req,Min Length,Max Length,Type
+IN201,Name Component Qualifier,M,2,2,ID
+IN202,Name,M,1,60,AN
+IN203,Name,O,1,60,AN

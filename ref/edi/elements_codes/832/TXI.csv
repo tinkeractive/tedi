@@ -1,0 +1,11 @@
+Element,Description,Req,Min Length,Max Length,Type
+TXI01,Tax Type Code,M,2,2,ID
+TXI02,Monetary Amount,C,1,18,R
+TXI03,Percentage As Decimal,C,1,10,R
+TXI04,Tax Jurisdiction Code Qualifier,C,2,2,ID
+TXI05,Tax Jurisdiction Code,C,1,10,AN
+TXI06,Tax Exempt Code,C,1,1,ID
+TXI07,Relationship Code,O,1,1,ID
+TXI08,Dollar Basis For Percent,O,1,9,R9
+TXI09,Tax Identification Number,O,1,20,AN
+TXI10,Assigned Identification,O,1,20,AN

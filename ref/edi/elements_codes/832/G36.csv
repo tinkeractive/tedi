@@ -1,0 +1,5 @@
+Element,Description,Req,Min Length,Max Length,Type
+G3601,Price List Number,M,1,16,AN
+G3602,Price List Issue Number,O,1,16,AN
+G3603,Date,M,8,8,DT
+G3604,Price Condition Applies Code,O,3,3,ID

@@ -1,0 +1,6 @@
+Element,Description,Req,Min Length,Max Length,Type
+NX201,Address Component Qualifier,M,2,2,ID
+NX202,Address Information,M,1,55,AN
+NX203,County Designator,O,5,5,lD
+NX204,Address Component Qualifier,C,2,2,ID
+NX205,Address Information,C,1,55,AN

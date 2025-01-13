@@ -1,0 +1,6 @@
+Element,Description,Req,Min Length,Max Length,Type
+CLD01,Number Of Loads,M,1,5,N0
+CLD02,Number Of Units Shipped,M,1,10,R
+CLD03,Packaging Code,O,3,5,AN
+CLD04,Size,C,1,8,R8
+CLD05,Unit Or Basis For Measurement Code,O,2,2,ID

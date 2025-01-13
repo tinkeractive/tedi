@@ -1,0 +1,9 @@
+Element,Description,Req,Min Length,Max Length,Type
+G9301,Price Bracket Identifier,O,1,3,AN
+G9302,Quantity,C,1,15,R
+G9303,Unit Or Basis For Measurement Code,C,2,2,ID
+G9304,Free-Form Description,O,1,45,AN
+G9305,Transportation Method/Type Code,O,1,2,ID
+G9306,Price Identifier Code,O,3,3,ID
+G9307,Action Code,O,1,2,ID
+G9308,Yes/No Condition Or Response Code,O,1,1,ID

@@ -1,0 +1,2 @@
+Element,Description,Req,Min Length,Max Length,Type
+G5301,Maintenance Type Code,M,3,3,ID

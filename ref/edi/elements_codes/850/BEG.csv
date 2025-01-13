@@ -1,0 +1,13 @@
+Element,Description,Req,Min Length,Max Length,Type
+BEG01,Transaction Set Purpose Code,M,2,2,ID
+BEG02,Purchase Order Type Code,M,2,2,ID
+BEG03,Purchase Order Number,M,1,22,AN
+BEG04,Release Number,O,1,30,AN
+BEG05,Date,M,8,8,DT
+BEG06,Contract Number,O,1,30,AN
+BEG07,Acknowledgment Type,O,2,2,ID
+BEG08,Invoice Type Code,O,3,3,ID
+BEG09,Contract Type Code,O,2,2,ID
+BEG10,Purchase Category,O,2,2,ID
+BEG11,Security Level Code,O,2,2,ID
+BEG12,Transaction Type Code,O,2,2,ID

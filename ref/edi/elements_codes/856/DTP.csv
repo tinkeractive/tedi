@@ -1,0 +1,4 @@
+Element,Description,Req,Min Length,Max Length,Type
+DTP01,Date/Time Qualifier,M,3,3,ID
+DTP02,Date Time Period Format Qualifier,M,2,3,ID
+DTP03,Date Time Period,M,1,35,AN
