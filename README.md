@@ -2,7 +2,7 @@
 
 A Python library for parsing X12 EDI documents. Output is XML (sorry, not sorry).
 
-Currently supports 810 (invoice), 850 (purchase order), 855 (acknowledgement), 856 (ship notification), and small 832 (catalog).
+Currently supports 810 (invoice), 850 (purchase order), 855 (acknowledgement), 856 (ship notification), and <i>small</i> 832 (catalog).
 
 ## Usage
 
