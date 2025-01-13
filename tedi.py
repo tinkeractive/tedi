@@ -2,7 +2,6 @@ import sys
 import os
 import io
 import re
-import argparse
 import tarfile
 import json
 import xml.etree.ElementTree
@@ -148,9 +147,7 @@ class Parser:
 			self.recurse(elements, cache, stack, matrix)
 
 def main():
-	args = get_args() 
-	with open(args.edi_file, 'r') as f:
-		edi = f.read()
+	edi = sys.stdin.read()
 	segment_separator = edi[105]
 	element_separator = edi[3]
 	parser = Parser(segment_separator, element_separator) 
@@ -158,12 +155,6 @@ def main():
 	xml_string = xml.etree.ElementTree.tostring(parsed)
 	dom = xml.dom.minidom.parseString(xml_string.decode('utf-8'))
 	print(dom.toprettyxml())
-
-def get_args():
-	parser = argparse.ArgumentParser(description='EDI.')
-	parser.add_argument('-f', '--edi_file', type=str, required=True)
-	args = parser.parse_args()
-	return args
 
 if __name__ == '__main__':
 	sys.setrecursionlimit(2000)
