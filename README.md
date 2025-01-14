@@ -1,4 +1,4 @@
-# tEDI - an EDI parser
+# tEDI - a parser
 
 A Python library for parsing X12 EDI documents. Output is XML (sorry, not sorry).
 
