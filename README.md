@@ -27,6 +27,8 @@ print(xml.etree.ElementTree.tostring(parsed).decode('utf-8'))
 cat example/edi/850.txt |PYTHONPATH=. python3 tedi.py
 ```
 
+### Output
+
 ```xml
 <?xml version="1.0" ?>
 <ISA ISA01="00" ISA02="          " ISA03="00" ISA04="          " ISA05="ZZ" ISA06="BUYER          " ISA07="ZZ" ISA08="SUPPLIER       " ISA09="250113" ISA10="0801" ISA11="U" ISA12="00001" ISA13="000000001" ISA14="0" ISA15="P" ISA16="|">
