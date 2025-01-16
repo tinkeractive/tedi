@@ -6,9 +6,7 @@ import xml
 def main():
 	args = get_args()
 	edi = sys.stdin.read()
-	segment_separator = edi[105]
-	element_separator = edi[3]
-	parser = tedi.Parser(segment_separator, element_separator)
+	parser = tedi.Parser()
 	parsed = parser.parse(edi)
 	xml_string = xml.etree.ElementTree.tostring(parsed)
 	if args.pretty_print:

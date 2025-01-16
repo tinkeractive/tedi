@@ -10,8 +10,8 @@ import xml.dom.minidom
 class Parser:
 	def __init__(
 			self,
-			segment_delimiter='\\\\[\r\n]*',
-			element_delimiter='*'):
+			segment_delimiter=None,
+			element_delimiter=None):
 		self.segment_delimiter = segment_delimiter
 		self.element_delimiter = element_delimiter
 
@@ -56,6 +56,10 @@ class Parser:
 		return result
 
 	def parse(self, document):
+		if self.segment_delimiter == None:
+			self.segment_delimiter = document[105]
+		if self.element_delimiter == None:
+			self.element_delimiter = document[3]
 		segments = document.strip().split(self.segment_delimiter)
 		# NOTE re.split removed since we should not be regex splitting
 		# NOTE the segment delimiter specified in the edi, NOT a regex
@@ -148,9 +152,7 @@ class Parser:
 
 def main():
 	edi = sys.stdin.read()
-	segment_separator = edi[105]
-	element_separator = edi[3]
-	parser = Parser(segment_separator, element_separator) 
+	parser = Parser()
 	parsed = parser.parse(edi)
 	xml_string = xml.etree.ElementTree.tostring(parsed)
 	dom = xml.dom.minidom.parseString(xml_string.decode('utf-8'))
